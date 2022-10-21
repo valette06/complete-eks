@@ -1,1 +1,1 @@
-# learn-eks-with-me-
+# deployed-eks-with-me-
